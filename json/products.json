@@ -2,109 +2,109 @@
     "products": [{
         "charmander": {
             "id": 0,
-            "type": "Fire",
+            "type": 0,
             "name": "Charmander",
-            "description": "Obviously prefers hot places. If gets caught in the rain, steam is said to spout from the tip of its tail."
+            "description": "Obviously prefers hot places."
         },
         "vulpix": {
             "id": 1,
-            "type": "Fire",
+            "type": 0,
             "name": "Vulpix",
             "description": "At the time of birth, it has just one tail.  Its tail splits from the tip as it grows older."
         },
         "growlithe": {
             "id": 2,
-            "type": "Fire",
+            "type": 0,
             "name": "Growlithe",
             "description": "Very protective of its territory.  It will bark and bite to repel intruders from its space."
         },
         "pikachu": {
             "id": 3,
-            "type": "Electric",
+            "type": 1,
             "name": "Pikachu",
             "description": "If it looses crackling power from the electric pouches on its cheeks, it is being wary."
         },
         "jolteon": {
             "id": 4,
-            "type": "Electric",
+            "type": 1,
             "name": "Jolteon",
             "description": "It controls 10,000-volt power and can raise all the fur on its body as if it were sharp needles."
         },
         "ampharos": {
             "id": 5,
-            "type": "Electric",
+            "type": 1,
             "name": "Ampharos",
             "description": "The tail's tip shines brightly and can be seen from far away.  It acts as a beacon for lost people."
         },
         "jynx": {
             "id": 6,
-            "type": "Psychic",
+            "type": 2,
             "name": "Jynx",
             "description": "Merely by beditation, the Pokemon launches a powerful psychic energy attack."
         },
         "abra": {
             "id": 7,
-            "type": "Psychic",
+            "type": 2,
             "name": "Abra",
             "description": "Using its ability to read minds, it will identify impending danger and teleport to safety."
         },
         "gengar": {
             "id": 8,
-            "type": "Psychic",
+            "type": 2,
             "name": "Gengar",
             "description": "Under a full moon, this Pokemon likes to mimic the shadows of people and laugh at their fright."
         },
         "alley-strangler": {
             "id": 9,
-            "type": "Black",
+            "type": 3,
             "name": "Alley Strangler",
             "description": "You never know what day might be your last."
         },
         "fen-hauler": {
             "id": 10,
-            "type": "Black",
+            "type": 3,
             "name": "Fen Hauler",
             "description": "Success is found where others fear to look."
         },
         "fatal-push": {
             "id": 11,
-            "type": "Black",
+            "type": 3,
             "name": "Fatal Push",
             "description": "Instant: destroy target creature if it has converted mana cost 2 or less."
         },
         "shipwreck-moray": {
             "id": 12,
-            "type": "Blue",
+            "type": 4,
             "name": "Shipwreck Moray",
             "description": "Shipwrecks do wonders for the local fauna."
         },
         "ice-over": {
             "id": 13,
-            "type": "Blue",
+            "type": 4,
             "name": "Ice Over",
             "description": "Slow the Consulate with whatever you've got!"
         },
         "hinterland-drake": {
             "id": 14,
-            "type": "Blue",
+            "type": 4,
             "name": "Hinterland Drake",
             "description": "As a kid, I dreamed of flying on those wild drakes."
         },
         "prey-upon": {
             "id": 15,
-            "type": "Green",
+            "type": 5,
             "name": "Prey Upon",
             "description": "It is the nature of the strong to survive."
         },
         "aetherwind-basker": {
             "id": 16,
-            "type": "Green",
+            "type": 5,
             "name": "Aetherwind Basker",
             "description": "Its frill inspired the design of efficient aether collectors."
         },
         "hidden-herbalists": {
             "id": 17,
-            "type": "Green",
+            "type": 5,
             "name": "Hidden Herbalists",
             "description": "In the cellars beneath Narnam House, a strange and deadly garden grows."
         }
