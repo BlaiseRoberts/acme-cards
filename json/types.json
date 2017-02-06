@@ -1,0 +1,40 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "Fire",
+            "description": "Fire pokemon burn with passion."
+        },
+        {
+            "id": 1,
+            "category": 0,
+            "name": "Electric",
+            "description": "Electric pokemon move like lightning."
+        },
+        {
+            "id": 2,
+            "category": 0,
+            "name": "Psychic",
+            "description": "Psychic pokemon have mysterious powers."
+        },
+        {
+            "id": 3,
+            "category": 1,
+            "name": "Black",
+            "description": "Black is the color of death, ambition, and darkness."
+        },
+        {
+            "id": 4,
+            "category": 1,
+            "name": "Blue",
+            "description": "Blue is the color of deceit, logic, and illusion."
+        },
+        {
+            "id": 5,
+            "category": 1,
+            "name": "Green",
+            "description": "Green is the color of growth, instinct, and nature."
+        }
+    ]
+}

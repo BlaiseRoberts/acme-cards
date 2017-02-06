@@ -1,0 +1,12 @@
+{
+    "categories": [
+        {
+            "id": 0,
+            "name": "Pokemon"
+        },
+        {
+            "id": 1,
+            "name": "Magic: the Gathering"
+        }
+    ]
+}
